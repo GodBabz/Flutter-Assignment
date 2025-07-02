@@ -31,7 +31,7 @@ This app allows users to:
 
 ## 📷 Demo Video
 
-- `project-demo`: [https://drive.google.com/your-demo-link](https://drive.google.com/your-demo-link)
+- `project-demo`: https://drive.google.com/file/d/1XidPnw7b8mZ-IwVFsNy0GOoQnD_kaJB_/view?usp=sharing
 
 ---
 
